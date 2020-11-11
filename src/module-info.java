@@ -1,0 +1,2 @@
+module Oblig3 {
+}
